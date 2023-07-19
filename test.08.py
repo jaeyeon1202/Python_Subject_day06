@@ -1,0 +1,18 @@
+print(3>5)
+print(3>=5)
+print(3<5)
+print(3<=5)
+print(3==5)
+print(3!=5)
+
+print("")
+print(2>1+1)
+print(7//3==2)
+print(1+2+3<=6)
+print(6%2==0)
+
+print("")
+print(1<3 and 3<5)
+print(1<3 or 3<5)
+print(80<=85<90)
+print(80<=85<89)
